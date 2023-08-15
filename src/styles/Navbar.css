@@ -1,0 +1,23 @@
+/* Navbar.css */
+.navbar {
+    background-color: teal;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .logout-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
